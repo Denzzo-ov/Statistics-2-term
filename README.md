@@ -5,8 +5,8 @@
 `stat.py`
 
 Результаты:
-`statistical_report.txt`
-'Stat_project.md'
+[Статистический проект](./docs/Stat_project.md)
+
 
 
 
