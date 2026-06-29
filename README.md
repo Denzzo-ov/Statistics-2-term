@@ -5,7 +5,7 @@
 `stat.py`
 
 Результаты:
-[Статистический проект](./docs/Stat_project.md)
+[Stat_project.md](./docs/Stat_project.md)
 
 
 
