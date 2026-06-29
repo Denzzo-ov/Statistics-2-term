@@ -8,7 +8,7 @@
 [Код](/stat.py)
 
 Результаты:
-[Отчет по проекту](/Stat_project.md) 
+[Отчет по проекту](/Stat_project.md)     
 [Результаты вычислений](/statistical_report.txt)
 
 
